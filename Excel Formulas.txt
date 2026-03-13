@@ -40,4 +40,5 @@ Click on Special
 Select Blank
 Click Ok
 Select First Date and Then Press Ctl + Enter
+
 Automaticall Auto Filled Date  
